@@ -1,0 +1,5 @@
+Netlify allows you to host react sites
+
+All you need to do is in Netlify add a new site, and point it to your github react repository
+
+
