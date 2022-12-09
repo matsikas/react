@@ -1,0 +1,14 @@
+Github Setup
+
+1. Make repository on github.
+
+2. Clone resposity to VSCode:
+
+Eg. git clone https://github.com/matsikas/react.git
+
+3. In VSCode as files as need, then Add, Commit & Push changes to github:
+
+    git add .
+    git status 
+    git commit -m "[Place message here]"
+    git push
